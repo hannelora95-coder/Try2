@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 01 19:38:25 EEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0199-a0a3-a96d-00000e481238 
+on database directory E:\egyetem\25-26-1-SEA-EAK-labs-stage1\11-JPA\JPA_annotation_query\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/hanne/eclipse/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.8+9-LTS
+user.dir=E:\egyetem\25-26-1-SEA-EAK-labs-stage1\11-JPA\JPA_annotation_query
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
